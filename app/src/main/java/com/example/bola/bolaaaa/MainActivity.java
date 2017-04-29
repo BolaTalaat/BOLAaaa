@@ -1,3 +1,4 @@
+//,mnmjk,bnmb n
 package com.example.bola.bolaaaa;
 
 import android.app.Activity;
@@ -19,7 +20,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //kjksdjvjkszjnjk
+        //kjksdjvjkszjnjkfff
         username=(EditText)findViewById(R.id.username);
         password=(EditText)findViewById(R.id.password);
         button=(Button)findViewById(R.id.button);
